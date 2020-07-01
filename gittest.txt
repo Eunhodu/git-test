@@ -1,1 +1,6 @@
 깃 테스트 중 입니다...
+
+1. git init => git 저장소를 만든다~
+2. ㅇ날ㄴ이ㅏ러ㅣㅏㄴㅇ러
+3. git add ( folder name / .) 
+4. git commit -m "commit msg"
