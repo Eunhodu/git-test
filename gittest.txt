@@ -4,3 +4,5 @@
 2. ㅇ날ㄴ이ㅏ러ㅣㅏㄴㅇ러
 3. git add ( folder name / .) 
 4. git commit -m "commit msg"
+
+수정!!!!!
